@@ -7,7 +7,7 @@ body{
 }
   /* hero bg img  */
   .rectangle{
-    background-image: url('/images/Rectangle\ 6.png');
+    background-image: url('../images/Rectangle\ 6.png');
     height: 100vh;
     background-repeat: no-repeat;
     background-size: contain;
