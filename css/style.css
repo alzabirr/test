@@ -1,0 +1,37 @@
+body{
+  font-family: 'EB Garamond';
+}
+/* logo img text colour change  */
+.color-change{
+    filter: brightness(0);
+}
+  /* hero bg img  */
+  .rectangle{
+    background-image: url('/images/Rectangle\ 6.png');
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-top: 30px;
+    border-radius: 5px;
+  }
+  .banner{
+    font-size: 65px;
+  }
+
+  /* card hover ifect  */
+  .just-hover  :hover{
+    background-color: rgb(130, 119, 119);
+
+    
+  }
+  .box{
+    height: 200px;
+    width: 200px;
+    background-color: red;
+    border: 1px solid black;
+  }
+
+ .list li{
+  list-style: none;
+  text-decoration: none;
+ }
